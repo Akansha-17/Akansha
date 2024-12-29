@@ -26,7 +26,8 @@ I believe in continuous learning and self-growth. My journey in tech is fueled b
 I aim to become an accomplished **Software- Developer**, contributing to impactful projects and continuing to explore emerging technologies.  
 
 ## 📬 Connect with Me  
-- **GitHub:** [Akansha-17](https://github.com/Akansha-17)  
+- **GitHub:** [Akansha-17](https://github.com/Akansha-17)
+- **Linked-In:**[Akansha.](linkedin.com/in/contactakansha)
 
 ---
 
